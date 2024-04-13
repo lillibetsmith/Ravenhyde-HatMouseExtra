@@ -1,0 +1,11 @@
+{
+  "Name": "Hat Mouse Extra",
+  "Author": "Ravenhyde",
+  "Version": "1.0.1",
+  "Description": "Hat Mouse Sells Extra Items.",
+  "UniqueID": "Ravenhyde.HatMouseExtraCP",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

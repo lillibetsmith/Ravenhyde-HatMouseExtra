@@ -1,0 +1,487 @@
+{
+  "VanillaShops": [
+    {
+    "ShopName": "HatMouse",
+    "MaxNumItemsSoldInStore": 7,
+    "ItemStocks": [
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Hay", "Sap", "Wood"],
+            "Stockprice": 10,
+            "Stock": 3
+        },
+        {
+            "ItemType": "Object",
+            "ItemIDs": [390],
+            "Stockprice": 10,
+            "Stock": 3
+        },
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Salmonberry", "Slime"],
+            "Stockprice": 25,
+            "Stock": 3
+        },
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Spring Onion"],
+            "Stockprice": 40,
+            "Stock": 3
+        },
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Bone Fragment"],
+            "Stockprice": 60,
+            "Stock": 3
+        },
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Bat Wing", "Hardwood"],
+            "Stockprice": 75,
+            "Stock": 3
+        },
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Blackberry", "Periwinkle"],
+            "Stockprice": 100,
+            "Stock": 3
+        },
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Cave Carrot", "Hops", "Quartz", "Wheat", "White Algae"],
+            "Stockprice": 125,
+            "Stock": 3
+        },
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Carp", "Daffodil", "Dandelion", "Mussel", "Sunfish", "Tulip"],
+            "Stockprice": 150,
+            "Stock": 3
+        },  
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Parsnip"],
+            "Stockprice": 175,
+            "Stock": 3
+        },
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Common Mushroom", "Green Bean", "Hot Pepper", "Oyster", "Sardine", "Solar Essence"],
+            "Stockprice": 200,
+            "Stock": 3
+        },
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Bream", "Ghostfish"],
+            "Stockprice": 225,
+            "Stock": 3
+        },
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Apricot", "Blueberry", "Chub", "Clam", "Cockle", "Corn", "Earth Crystal", "Red Snapper", "Refined Quartz", "Sweet Pea", "Void Essence", "Wheat Flour", "Wild Horseradish"],
+            "Stockprice": 250,
+            "Stock": 3
+        },    
+        {
+            "ItemType": "Object",
+            "ItemIDs": [180, 176],
+            "Stockprice": 250,
+            "Stock": 3
+        }, 
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Fried Egg"],
+            "Stockprice": 260,
+            "Stock": 3
+        },    
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Parsnip"],
+            "Quality": 2,
+            "Stockprice": 260,
+            "Stock": 1
+        },    
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Ancient Doll"],
+            "Stockprice": 300,
+            "Stock": 1
+        },    
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Copper Bar", "Crocus", "Eggplant", "Leek", "Shad", "Shrimp", "Tomato"],
+            "Stockprice": 300,
+            "Stock": 3
+        },    
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Green Bean", "Hot Pepper"],
+            "Quality": 2,
+            "Stockprice": 300,
+            "Stock": 1
+        },   
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Roe", "Snail"],
+            "Stockprice": 325,
+            "Stock": 3
+        }, 
+         {
+            "ItemType": "Object",
+            "ItemNames": ["Winter Root"],
+            "Stockprice": 350,
+            "Stock": 3
+        },
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Cactus Fruit", "Crayfish", "Frozen Tear", "Red Mushroom", "Sandfish", "Tilapia", "Woodskip"],
+            "Stockprice": 350,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Blueberry", "Corn"],
+            "Stockprice": 350,
+            "Quality": 2,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Cherry", "Grape", "Holly", "Potato", "Spice Berry", "Sunflower", "Topaz", "Wild Plum"],
+            "Stockprice": 400,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Eel"],
+            "Stockprice": 425,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Fiddlehead Fern", "Hazelnut", "Summer Spangle"],
+            "Stockprice": 450,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Eggplant", "Shad"],
+            "Stockprice": 450,
+            "Quality": 2,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Duck Egg"],
+            "Stockprice": 475,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemIDs": [174, 182],
+            "Stockprice": 475,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Amethyst", "Apple", "Crab", "Coconut", "Beet", "Blue Jazz", "Fire Quartz", "Frozen Geode", "Green Tea", "Honey", "Iridium Ore", "Largemouth Bass", "Pine Tar", "Snow Yam", "Tuna"],
+            "Stockprice": 500,
+            "Stock": 3
+        },  
+        {
+            "ItemType": "Ring",
+            "ItemIDs": [516],
+            "Stockprice": 500,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Walleye"],
+            "Stockprice": 525,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Squid Ink"],
+            "Stockprice": 550,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Potato"],
+            "Stockprice": 600,
+            "Quality": 2,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Ice Cream", "Iron Bar", "Lobster", "Nautilus Shell"],
+            "Stockprice": 600,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Aged Roe"],
+            "Stockprice": 650,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Milk"],
+            "Stockprice": 625,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Cookie", "Peach", "Pomegranate", "Poppy"],
+            "Stockprice": 700,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Amaranth", "Crystal Fruit", "Morel", "Octopus", "Tiger Trout", "Oak Resin"],
+            "Stockprice": 750,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Scorpion Carp"],
+            "Stockprice": 750,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Largemouth Bass", "Tuna"],
+            "Stockprice": 750,
+            "Quality": 2,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Walleye"],
+            "Stockprice": 785,
+            "Quality": 2,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Sea Urchin", "Yam"],
+            "Stockprice": 800,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Cauliflower"],
+            "Stockprice": 875,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Aquamarine"],
+            "Stockprice": 900,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Large Milk"],
+            "Stockprice": 950,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Catfish", "Maple Syrup", "Mead", "Pufferfish", "Sturgeon"],
+            "Stockprice": 1000,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Maki Roll"],
+            "Stockprice": 1100,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Void Salmon"],
+            "Stockprice": 1125,
+            "Quality": 2,
+            "Stock": 1,
+            "When": ["r 0.5"]
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Goat Milk", "Juice"],
+            "Stockprice": 1125,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Cheese"],
+            "Stockprice": 1150,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Yam"],
+            "Stockprice": 1200,
+            "Quality": 2,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Duck Feather", "Emerald", "Gold Bar", "Jelly", "Purple Mushroom", "Ruby"],
+            "Stockprice": 1250,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Melon"],
+            "Stockprice": 1250,
+            "Quality": 2,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Red Cabbage"],
+            "Stockprice": 1300,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Cauliflower"],
+            "Stockprice": 1310,
+            "Quality": 2,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Fairy Rose"],
+            "Stockprice": 1450,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Void Salmon"],
+            "Stockprice": 1500,
+            "Quality": 4,
+            "Stock": 1,
+            "When": ["r 0.2"]
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Pale Ale", "Wine", "Omni Geode"],
+            "Stockprice": 1500,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Pumpkin"],
+            "Stockprice": 1600,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Wool"],
+            "Stockprice": 1700,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemIDs": [438],
+            "Stockprice": 1725,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Goat Cheese"],
+            "Stockprice": 2000,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Cloth"],
+            "Stockprice": 2350,
+            "Stock": 3
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Pumpkin"],
+            "Stockprice": 2400,
+            "Quality": 2,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Battery Pack", "Blobfish", "Diamond"],
+            "Stockprice": 2500,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Caviar"],
+            "Stockprice": 2500,
+            "Stock": 1,
+            "When": ["r 0.5"]
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Ancient Fruit"],
+            "Stockprice": 2750,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Truffle"],
+            "Stockprice": 3125,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Lava Eel"],
+            "Stockprice": 3500,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Starfruit"],
+            "Stockprice": 3750,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Ancient Fruit"],
+            "Stockprice": 4125,
+            "Quality": 2,
+            "Stock": 1,
+            "When": ["r 0.5"]
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Iridium Bar"],
+            "Stockprice": 5000,
+            "Stock": 1
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Truffle Oil"],
+            "Stockprice": 5325,
+            "Stock": 1,
+            "When": ["r 0.5"]
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Prismatic Shard"],
+            "Stockprice": 10000,
+            "Stock": 1,
+            "When": ["r 0.5"]
+        }, 
+        {
+            "ItemType": "Object",
+            "ItemNames": ["Sweet Gem Berry"],
+            "Stockprice": 15000,
+            "Stock": 1,
+            "When": ["r 0.5"]
+        }, 
+    ],
+},
+],
+}

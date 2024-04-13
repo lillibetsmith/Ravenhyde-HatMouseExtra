@@ -1,0 +1,11 @@
+{
+    "Name": "More Mouse Shopping",
+    "Author": "ravenhyde",
+    "Version": "1.0.1",
+    "Description": "Hat Mouse has some extra items",
+    "UniqueID": "Ravenhyde.HatMouseExtraSTF",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+      "UniqueID": "Cherry.ShopTileFramework"
+    },
+  }
