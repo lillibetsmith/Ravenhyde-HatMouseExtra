@@ -4,7 +4,7 @@
     "Version": "1.0.1",
     "Description": "Hat Mouse has some extra items",
     "UniqueID": "Ravenhyde.HatMouseExtraSTF",
-    "UpdateKeys": [],
+    "UpdateKeys": ["GitHub:lillibetsmith/Ravenhyde-HatMouseExtra"],
     "ContentPackFor": {
       "UniqueID": "Cherry.ShopTileFramework"
     },
